@@ -12,7 +12,10 @@ public class DBZ extends Game{
 	public SpriteBatch batch;
     public  static final int V_WIDTH = 400;
     public  static final int V_HEIGHT = 208;
+<<<<<<< HEAD
 	public static final float PPM = 100;
+=======
+>>>>>>> d6e6bd09f46c0d4b97bb2d0709fbe3f3bae7d81f
 
 	
 	@Override

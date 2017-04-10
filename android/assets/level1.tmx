@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="83">
  <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
@@ -64,3 +65,71 @@
   <object id="82" x="1312" y="96" width="17" height="15"/>
  </objectgroup>
 </map>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="83">
+ <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
+  <image source="tileset_gutter.png" width="594" height="504"/>
+ </tileset>
+ <layer name="Background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7Ay/4bqrir2JZBeUlVVVVVVVVVVVVVV1ccDxULniQ==
+  </data>
+ </layer>
+ <layer name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1U0OgjAQhuHCTi9AuIIu1Ht5Ff8u4t8xPJWTyEITlGkZ7Ijvk0zYwPDRljYEAAAAAAAAAADgTSlVN1cAAMaiDK9nHOecvSo8xrdqyptFEcJSalXY9Ktt2rSaSMapUU4LsXk2cu/WUX78plvuAIlmsvbnjtb/OjLPUe49Ocr/bCe59lKHHvlKZXU9o+VtP/9XKfPswZj+37PkukhdE/NZzom2l7f9fMz67LO5aM+Ttm9KeTb2nPpGad9vLdc4veuj6a/NYJm3q9+n98R80xCGXrt3fCoNbA==
+  </data>
+ </layer>
+ <objectgroup name="ground">
+  <object id="1" x="0" y="192" width="208" height="16"/>
+  <object id="2" x="240" y="192" width="272" height="16"/>
+  <object id="7" x="560" y="192" width="480"/>
+  <object id="8" x="1072" y="192" width="128" height="16"/>
+  <object id="21" x="1216" y="158" width="160" height="16"/>
+  <object id="25" x="3457" y="191" width="384" height="16"/>
+  <object id="33" x="3376" y="159" width="64" height="16"/>
+  <object id="34" x="3233" y="160" width="96" height="16"/>
+  <object id="35" x="3121" y="176" width="80" height="16"/>
+  <object id="37" x="2976" y="192" width="112" height="16"/>
+  <object id="38" x="2864" y="192" width="80" height="16"/>
+  <object id="39" x="2768" y="193" width="64" height="16"/>
+  <object id="40" x="2448" y="193" width="272" height="16"/>
+  <object id="41" x="2272" y="192" width="128" height="16"/>
+  <object id="42" x="2128" y="192" width="112" height="16"/>
+  <object id="43" x="2032" y="193" width="64" height="16"/>
+  <object id="44" x="1744" y="192" width="256" height="16"/>
+  <object id="45" x="1521" y="192" width="176" height="16"/>
+  <object id="46" x="1505" y="177" width="16" height="16"/>
+  <object id="47" x="1424" y="159" width="80" height="16"/>
+  <object id="52" x="1200" y="176" width="16" height="16"/>
+  <object id="54" x="560" y="191" width="480" height="16"/>
+ </objectgroup>
+ <objectgroup name="pipes">
+  <object id="55" x="128" y="144" width="32" height="48"/>
+  <object id="57" x="320" y="144" width="32" height="48"/>
+  <object id="58" x="3393" y="127" width="32" height="32"/>
+  <object id="59" x="1665" y="161" width="32" height="32"/>
+  <object id="60" x="945" y="161" width="48" height="32"/>
+  <object id="61" x="2656" y="144" width="16" height="16"/>
+  <object id="62" x="2706" y="128" width="48" height="16"/>
+ </objectgroup>
+ <objectgroup name="coins">
+  <object id="64" x="3024" y="129" width="16" height="16"/>
+  <object id="66" x="2081" y="128" width="14" height="15"/>
+  <object id="69" x="1297" y="96" width="14" height="15"/>
+  <object id="70" x="673" y="129" width="15" height="14"/>
+ </objectgroup>
+ <objectgroup name="bricks">
+  <object id="73" x="640" y="128" width="14" height="16"/>
+  <object id="74" x="656" y="128" width="15" height="16"/>
+  <object id="75" x="690" y="129" width="15" height="14"/>
+  <object id="76" x="706" y="129" width="15" height="15"/>
+  <object id="77" x="2064" y="128" width="17" height="16"/>
+  <object id="78" x="2098" y="129" width="13" height="13"/>
+  <object id="80" x="2113" y="128" width="15" height="15"/>
+  <object id="81" x="1280" y="96" width="14" height="15"/>
+  <object id="82" x="1312" y="96" width="17" height="15"/>
+ </objectgroup>
+</map>
+>>>>>>> d6e6bd09f46c0d4b97bb2d0709fbe3f3bae7d81f
